@@ -1,0 +1,17 @@
+.recipe {
+  border-bottom: 2px dashed black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.btn-warning {
+  margin-right: 5px;
+  max-width: 100px;
+  max-height: 70px;
+}
+
+.btn-danger {
+  margin-right: 5px;
+  max-width: 100px;
+  max-height: 70px;
+}
